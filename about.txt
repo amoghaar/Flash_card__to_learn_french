@@ -1,0 +1,22 @@
+# Flashy: A Flashcard Application
+
+## Overview
+Flashy is a simple flashcard application built with Python and Tkinter. It helps users learn French words by showing them on flashcards. The application displays a French word and after 3 seconds, it flips the card to reveal the English translation.
+
+## Features
+- Flashcards with French words and their English translations.
+- The application keeps track of known words and removes them from the rotation.
+- The flashcards flip automatically after 3 seconds to reveal the translation.
+- Users can manually flip the card if they know the translation.
+- The application saves progress between sessions.
+
+## Libraries Used
+- Tkinter for the GUI
+- Pandas for handling CSV data
+
+## How to Run
+1. Ensure that Python and Pandas are installed on your system.
+2. Clone this repository.
+3. Run `python main.py` in your terminal.
+
+Enjoy learning French with Flashy!
